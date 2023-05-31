@@ -14,6 +14,6 @@
 
 ![Dart](https://img.shields.io/badge/-Flutter-red?&logo=Flutter&logoColor=00ADD8)
 ![C++](https://img.shields.io/badge/-C++-blue?&logo=C&logoColor=ddc508)
-![SQL](https://img.shields.io/badge/-SQL-violet?&logo=MySQL&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/-SQL-violet?&logo=MicrosoftSQL&logoColor=4479A1)
 
 
