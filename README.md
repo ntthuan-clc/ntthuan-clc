@@ -1,16 +1,23 @@
-### Hi there 👋 I am THUAN
+<div align="center">
+  <h2> 
+    Hi, there! I am THUAN <img src="gifs/hi.gif" width="30px">
+  </h2>
+</div>
 
-<!--
-**ntthuan-clc/ntthuan-clc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+🎓 I'm studying Information Technology at HCMC University of Science.
 
- 🔭 I’m currently study at HCMUS
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Dev FrontEnd Stack
+
+#### Languages
+
+![Dart](https://img.shields.io/badge/-Dart-red?&logo=Go&logoColor=00ADD8)
+![C++](https://img.shields.io/badge/-C++-blue?&logo=C&logoColor=ddc508)
+![SQL](https://img.shields.io/badge/-SQL-violet?&logo=MySQL&logoColor=4479A1)
+
+#### Technologies
+
+Technologies that I've been learning and I've picked up along my programming journey.
+
+![MySQL](https://img.shields.io/badge/-Flutter-yellow?&logo=mysql&logoColor=4479A1)
