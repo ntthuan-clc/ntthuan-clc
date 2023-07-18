@@ -16,5 +16,6 @@
 ![C++](https://img.shields.io/badge/-C++-blue?&logo=C&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-violet?&logo=MicrosoftSQL&logoColor=4479A1)
 ![Python](https://img.shields.io/badge/-Python-red?&logo=Python&logoColor=00ADD8)
+![Java](https://img.shields.io/badge/-Java-blue?&logo=Java&logoColor=00ADD8)
 
 
